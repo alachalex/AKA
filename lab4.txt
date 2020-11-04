@@ -1,0 +1,75 @@
+Reflection, Refraction and Polarization of Light
+
+Station #8
+
+Friday, March 27, 2020
+
+9:00 AM
+
+
+
+Part A: Snell's Law
+
+
+
+Arrow, deg.	Reflected beam, deg.	Refracted beam, deg.	
+
+15.0	30.0	184.0	
+
+20.0	41.0	186.0	
+
+25.0	51.0	188.0	
+
+30.0	61.0	190.0	
+
+35.0	74.0	192.0	
+
+40.0	84.0	194.0	
+
+45.0	94.0	196.0	
+
+50.0	103.0	198.0	
+
+55.0	112.0	201.0	
+
+60.0	123.0	204.0	
+
+
+
+Angle uncertainty	1.0	deg.
+
+
+
+Part B: Brewster's Law
+
+
+
+Arrow, deg., 	Intensity (light blocked), mA	Uncertainty (light blocked), mA	Intensity (light unblocked), mA	Uncertainty (light unblocked), mA	
+
+46.0	4.6000E-4	5.0000E-5	4.7000E-3	6.5000E-5	
+
+48.0	4.5000E-4	5.0000E-5	3.0800E-3	8.0000E-5	
+
+50.0	4.7000E-4	4.5000E-5	2.3600E-3	4.8000E-5	
+
+52.0	4.6000E-4	3.0000E-5	1.7500E-3	5.0000E-5	
+
+54.0	4.6000E-4	5.0000E-5	1.2000E-3	5.0000E-5	
+
+56.0	4.5000E-4	5.0000E-5	1.1000E-3	5.0000E-5	
+
+58.0	4.8000E-4	5.2000E-5	1.3700E-3	4.0000E-5	
+
+60.0	4.7000E-4	4.8000E-5	2.1900E-3	5.0000E-5	
+
+62.0	4.9000E-4	4.8000E-5	3.7700E-3	4.1000E-5	
+
+64.0	5.0000E-4	4.0000E-5	6.9100E-3	4.9000E-5	
+
+66.0	5.0000E-4	5.0000E-5	1.1020E-2	5.4000E-5	
+
+
+
+
+
+Angle uncertainty	1.0	deg.
